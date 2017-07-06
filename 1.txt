@@ -1,5 +1,0 @@
-fethis is a demo of vim.
-
-
-it is cool.
-erfefefefefeffer
